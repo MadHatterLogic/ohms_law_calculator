@@ -1,4 +1,4 @@
-// Ohm's Law Circuit Analysis Tool 
+// Ohm's Law Calculator
 
 #include <cmath>
 #include <iomanip>
